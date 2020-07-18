@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', (event) =>{
 
     let score = 0
     
-    let gravity = .035//0//.03
+    let gravity = .01//0//.03
     let friction = .99
     let pegged = 1
     let keysPressed = {}
